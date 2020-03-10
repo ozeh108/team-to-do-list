@@ -1,0 +1,4 @@
+!/.env.*
+*.snap
+.prettierignore
+*.feature
